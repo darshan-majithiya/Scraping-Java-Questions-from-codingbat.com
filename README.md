@@ -6,6 +6,6 @@ Run the files in following order:
 - Scraping the Coding Bat Site.ipynb.
 
 ### Dependencies
-- Anaconda package
+- Anaconda 4.x
 - fake_useragent library
 
